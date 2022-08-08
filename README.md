@@ -1,2 +1,3 @@
-# cpp_opengl_examples
-OpenGL examples in Cplusplus
+# Cpluspus OpenGL examples
+
+This repo contains simples OpenGL app examples using Cplusplus
